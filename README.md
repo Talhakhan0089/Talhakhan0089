@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi 👋, I'm Muhammad Talha Khan
+A Full-Stack Developer
 
-<!--
-**Talhakhan0089/Talhakhan0089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on **Tab Service**  
+🌱 I’m currently learning **React Query**  
+👯 I’m looking to collaborate on **Open Source Projects, Java and JavaScript Frameworks**  
+💬 Ask me about **React, Node, Kotlin, Java, Spring Boot, React Native, DynamoDB, PostgreSQL, Azure Functions, RabbitMQ**  
+📫 How to reach me: talhakhan_official@outlook.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[[Your LinkedIn Profile]  ](https://github.com/Talhakhan0089)
+[Your Twitter Profile]  
+
+---
+
+### Languages and Tools:
+- **Frontend:** React JS, React Native  
+- **Backend:** Node, Spring Boot, Azure Functions  
+- **Mobile Development:** Kotlin, React Native  
+- **Database:** DynamoDB, PostgreSQL, MYSQL  
+- **Messaging:** RabbitMQ  
+- **Other Tools:** Git, Docker
+
+---
+
