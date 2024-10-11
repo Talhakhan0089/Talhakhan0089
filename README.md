@@ -10,7 +10,7 @@ A Full-Stack Developer
 ---
 
 ### Connect with me:
-linkedIn: https://github.com/Talhakhan0089
+LinkedIn: https://github.com/Talhakhan0089
 Twiter/X: @alzarkavi420  
 
 ---
