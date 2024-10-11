@@ -10,7 +10,7 @@ A Full-Stack Developer
 ---
 
 ### Connect with me:
-[[Your LinkedIn Profile]  ](https://github.com/Talhakhan0089)
+(https://github.com/Talhakhan0089)
 [Your Twitter Profile]  
 
 ---
